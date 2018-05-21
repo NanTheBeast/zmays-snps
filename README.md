@@ -1,0 +1,2 @@
+# zmays-snps
+bioinfor_skills_chapter5_git_for_scientist
