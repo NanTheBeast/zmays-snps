@@ -17,3 +17,4 @@ data/seqs/zmaysC_R2.fastq
 Working with Branches | 103
 We downloaded the B72 reference genome (refgen3) on 2013-01-04 from
 http://maizegdb.org into `/share/data/refgen3/`.
+
